@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Ajay<br><br>⚡ I'm an Electrical and Electronics Engineer <br><br>🚀 **Currently working on:**  <br>An **Autonomous Drone for Medical Delivery**, featuring:<br>🚁 Advanced auto-navigation capabilities  <br> 📡 Real-time control using **MavLink** protocol  <br> 🧠 Embedded systems integration for reliable, autonomous operation<br><br>💡 Always exploring new possibilities at the intersection of electronics, software, and automation.<br>
+👋 Hi there, I'm Ajay<br><br>⚡ Electrical and Electronics Engineer <br><br>🚀 **Currently working on:**  <br>An **Autonomous Drone for Medical Delivery**, featuring:<br>🚁 Advanced auto-navigation capabilities  <br> 📡 Real-time control using **MavLink** protocol  <br> 🧠 Embedded systems integration for reliable autonomous operation<br><br>💡 Always exploring new possibilities at the intersection of electronics, software, and automation.<br>
 
 
 ## 🌐 Socials:
